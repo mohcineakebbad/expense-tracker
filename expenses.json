@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "category": "food",
+        "amount": 15.0,
+        "date": "2026-10-14"
+    },
+    {
+        "id": 3,
+        "category": "food",
+        "amount": 5.0,
+        "date": "2026-10-14"
+    },
+    {
+        "id": 4,
+        "category": "",
+        "amount": 5.0,
+        "date": "2026-10-14"
+    },
+    {
+        "id": 5,
+        "category": "gaming",
+        "amount": 80.0,
+        "date": "2026-10-14"
+    },
+    {
+        "id": 6,
+        "category": "food",
+        "amount": 15.0,
+        "date": "2026-10-14"
+    },
+    {
+        "id": 7,
+        "category": "food",
+        "amount": 80.0,
+        "date": "2026-10-14"
+    },
+    {
+        "id": 8,
+        "category": "food",
+        "amount": 15.0,
+        "date": "2026-10-14"
+    },
+    {
+        "id": 9,
+        "category": "fOod",
+        "amount": 15.0,
+        "date": "2026-10-14"
+    },
+    {
+        "id": 10,
+        "category": "fooD",
+        "amount": 80.0,
+        "date": "2026-10-14"
+    },
+    {
+        "id": 11,
+        "category": "gaming",
+        "amount": 80.0,
+        "date": "2026-10-14"
+    },
+    {
+        "id": 12,
+        "category": "transport",
+        "amount": 15.0,
+        "date": "2026-10-15"
+    }
+]
